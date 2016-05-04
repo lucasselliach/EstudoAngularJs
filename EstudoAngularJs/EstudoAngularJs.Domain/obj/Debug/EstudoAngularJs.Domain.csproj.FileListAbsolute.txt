@@ -1,0 +1,4 @@
+C:\Users\lucas\Documents\Projetos2016\Estudo AngularJs\EstudoAngularJs\EstudoAngularJs.Domain\bin\Debug\EstudoAngularJs.Domain.dll
+C:\Users\lucas\Documents\Projetos2016\Estudo AngularJs\EstudoAngularJs\EstudoAngularJs.Domain\bin\Debug\EstudoAngularJs.Domain.pdb
+C:\Users\lucas\Documents\Projetos2016\Estudo AngularJs\EstudoAngularJs\EstudoAngularJs.Domain\obj\Debug\EstudoAngularJs.Domain.dll
+C:\Users\lucas\Documents\Projetos2016\Estudo AngularJs\EstudoAngularJs\EstudoAngularJs.Domain\obj\Debug\EstudoAngularJs.Domain.pdb

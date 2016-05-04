@@ -1,0 +1,12 @@
+C:\Users\lucas\Documents\Projetos2016\Estudo AngularJs\EstudoAngularJs\EstudoAngularJs.Data\bin\Debug\EstudoAngularJs.Data.dll.config
+C:\Users\lucas\Documents\Projetos2016\Estudo AngularJs\EstudoAngularJs\EstudoAngularJs.Data\bin\Debug\EstudoAngularJs.Data.dll
+C:\Users\lucas\Documents\Projetos2016\Estudo AngularJs\EstudoAngularJs\EstudoAngularJs.Data\bin\Debug\EstudoAngularJs.Data.pdb
+C:\Users\lucas\Documents\Projetos2016\Estudo AngularJs\EstudoAngularJs\EstudoAngularJs.Data\bin\Debug\EntityFramework.dll
+C:\Users\lucas\Documents\Projetos2016\Estudo AngularJs\EstudoAngularJs\EstudoAngularJs.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lucas\Documents\Projetos2016\Estudo AngularJs\EstudoAngularJs\EstudoAngularJs.Data\bin\Debug\EstudoAngularJs.Domain.dll
+C:\Users\lucas\Documents\Projetos2016\Estudo AngularJs\EstudoAngularJs\EstudoAngularJs.Data\bin\Debug\EstudoAngularJs.Domain.pdb
+C:\Users\lucas\Documents\Projetos2016\Estudo AngularJs\EstudoAngularJs\EstudoAngularJs.Data\bin\Debug\EntityFramework.xml
+C:\Users\lucas\Documents\Projetos2016\Estudo AngularJs\EstudoAngularJs\EstudoAngularJs.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lucas\Documents\Projetos2016\Estudo AngularJs\EstudoAngularJs\EstudoAngularJs.Data\obj\Debug\EstudoAngularJs.Data.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Documents\Projetos2016\Estudo AngularJs\EstudoAngularJs\EstudoAngularJs.Data\obj\Debug\EstudoAngularJs.Data.dll
+C:\Users\lucas\Documents\Projetos2016\Estudo AngularJs\EstudoAngularJs\EstudoAngularJs.Data\obj\Debug\EstudoAngularJs.Data.pdb

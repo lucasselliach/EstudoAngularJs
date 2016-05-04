@@ -1,0 +1,1 @@
+﻿angular.module("SysLocadora", ['ngMessages', 'pascalprecht.translate']);
